@@ -57,5 +57,6 @@ Bisa langsung Anda gunakan setelah menjalankan perintah `--seed` di atas.
 5.  **Guest** mendaftar/login, lalu langsung mengisi Rating Bintang pada destinasi wisata.
 6.  Guest langsung mendapatkan **Rekomendasi Personal**, sementara Admin memantau **Global Ranking** & Riwayat Personal Guest dari dasbor.
 
-Created by Fikri
+Created by Fikri 
+-
 Mata Kuliah Rekayasa Perangkat Lunak
