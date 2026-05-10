@@ -2,7 +2,7 @@
 
 Sistem Rekomendasi Pemilihan Destinasi Wisata Kota Medan menggunakan algoritma **Analytic Hierarchy Process (AHP) - Absolute Measurement (Rating Model)**.
 
-Pada versi terbaru ini, sistem mengadopsi model AHP yang jauh lebih modern:
+Sistem mengadopsi model AHP yang jauh lebih modern:
 *   **User/Guest** hanya perlu memberikan rating Bintang (⭐1-5) untuk tempat-tempat yang pernah mereka kunjungi (tanpa perlu memusingkan perbandingan matriks yang rumit).
 *   **Admin** melakukan konfigurasi bobot kriteria AHP dasar dan pemetaan skala konversi bintang.
 *   Sistem menghitung **Personal Ranking** secara instan untuk tiap Guest dan merangkum **Global Ranking** berdasarkan rata-rata penilaian seluruh Guest.
